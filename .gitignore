@@ -1,0 +1,15 @@
+# Archivos auxiliares de macOS
+.DS_Store
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Entorno virtual y configuración privada
+.venv/
+.env
+
+# Datos y archivos comprimidos publicados por separado
+data/*.csv
+*.zip
