@@ -1,0 +1,18 @@
+,faltantes,tipo_original,faltantes_pct
+VIN (1-10),0,string,0.0
+County,5,string,0.002811104989149135
+City,5,string,0.002811104989149135
+State,0,string,0.0
+Postal Code,5,string,0.002811104989149135
+Model Year,0,string,0.0
+Make,0,string,0.0
+Model,0,string,0.0
+Electric Vehicle Type,0,string,0.0
+Clean Alternative Fuel Vehicle (CAFV) Eligibility,0,string,0.0
+Electric Range,0,string,0.0
+Base MSRP,0,string,0.0
+Legislative District,389,string,0.2187039681558027
+DOL Vehicle ID,0,string,0.0
+Vehicle Location,9,string,0.005059988980468442
+Electric Utility,5,string,0.002811104989149135
+2020 Census Tract,5,string,0.002811104989149135

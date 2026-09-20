@@ -1,0 +1,10 @@
+{
+  "input_rows": 177866,
+  "wa_rows": 177477,
+  "excluded_non_wa_or_missing_state": 389,
+  "exact_duplicates": 0,
+  "range_available_pct": 48.28005882452374,
+  "price_available_pct": 1.8768629174484581,
+  "figures": 7,
+  "status": "validaciones_completadas"
+}

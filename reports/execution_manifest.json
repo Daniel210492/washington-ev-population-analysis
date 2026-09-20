@@ -1,0 +1,13 @@
+{
+  "file": "electric_vehicle_population.csv",
+  "sha256": "ad9ef46a63c0e68d46731dc1ad6dfafb313c0974e39e8eacc0ebdabb1a4a8469",
+  "rows": 177866,
+  "columns": 17,
+  "snapshot_date": null,
+  "python": "3.14.4",
+  "packages": {
+    "pandas": "3.0.2",
+    "numpy": "2.4.4",
+    "matplotlib": "3.10.8"
+  }
+}
